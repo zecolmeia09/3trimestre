@@ -8,3 +8,7 @@ main{background-color: rgb(252, 237, 106); text-align:justify; font-size:18px;}
     #tituloimagem{width: 5%;height: 5%;}
     #lista{display:inline-block;}
 .primeiroparagrafo{border: 2px black;}
+nav li {text-transform:uppercase:list-style:nome:display:inline:margin-lef:10px;text-align:right}
+nav a{color#ceeffc;text-decoration:nome:text-align:right;}
+#lista01{display:block;text-align:center;}
+
